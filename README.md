@@ -4,15 +4,23 @@ A paper list of awesome Image Tagging
 ## Conventional Image Tagging
 Describe an image using tags. Tags can be objects, situation, and user generated tags.
 
+* WARP
+  - [Y Gong, Y Jia, T Leung, A Toshev, S loffe. Deep Convolutional Ranking for Multilabel Image Annotation. arXiv:1312.4894](https://arxiv.org/abs/1312.4894)
+
 * CNN-RNN
   - [J Wang, Y Yang, J Mao, Z Huang, C Huang, W Xu. CNN-RNN: A Unified Framework for Multi-Label Image Classification. CVPR 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.html)
 
+* Multi-label Triplet Embeddings
+  - [Z Seymour, ZM Zhang. Multi-label Triplet Embeddings for Image Annotation from User-Generated Tags. ICMR 2018](https://dl.acm.org/citation.cfm?id=3206061)
 
 ## Zero-shot Image Tagging
 Annotate an image by unseen tags. It means 'unseen at the training stage'.
 
 * HierSE
   - [X Li, S Liao, W Lan, X Du, G Yang. Zero-shot Image Tagging by Hierarchical Semantic Embedding. SIGIR 2015](https://dl.acm.org/citation.cfm?id=2767773)
+
+* Fast0Tag
+  - [Y Zhang, B Gong, M Shah. Fast Zero-shot Image Tagging. CVPR 2016](https://arxiv.org/abs/1605.09759)
 
 ## Diverse Image Annotation
 Describe an image using a limited numbers of tags, whereby the retrieved tags need to cover as much useful information about the image as possible. (by Diverse Image Annotation, CVPR 2017)
@@ -22,7 +30,7 @@ Describe an image using a limited numbers of tags, whereby the retrieved tags ne
 * D2IA-GAN
   - [B Wu, W Chen, P Sun, W Liu, B Ghanem, S Lyu. Tagging like humans : Diverse and Distinct Image Annotation. CVPR 2018](https://arxiv.org/abs/1804.00113)
 
-## Notice - 유의사항
+## Notice
 This repository is just made for my own studying, so there may be incorrect information.<br>
 Also, I regard 'image tagging', 'image annotation', 'multi-label image classification' as same task (actually may be little bit different) in this repository.<br>
 Thank you!<br><br>
