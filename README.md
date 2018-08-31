@@ -10,6 +10,9 @@ Describe an image using tags. Tags can be objects, situation, and user generated
 * CNN-RNN
   - [J Wang, Y Yang, J Mao, Z Huang, C Huang, W Xu. CNN-RNN: A Unified Framework for Multi-Label Image Classification. CVPR 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.html)
 
+* S-CNN-RNN
+  - [F Liu, T Xiang, TM Hospedales, W Yang, C Sun. Semantic Regularisation for Recurrent Image Annotation](https://arxiv.org/abs/1611.05490)
+
 * Multi-label Triplet Embeddings
   - [Z Seymour, ZM Zhang. Multi-label Triplet Embeddings for Image Annotation from User-Generated Tags. ICMR 2018](https://dl.acm.org/citation.cfm?id=3206061)
 
@@ -21,6 +24,9 @@ Annotate an image by unseen tags. It means 'unseen at the training stage'.
 
 * Fast0Tag
   - [Y Zhang, B Gong, M Shah. Fast Zero-shot Image Tagging. CVPR 2016](https://arxiv.org/abs/1605.09759)
+  
+* Deep Multiple Instance Learning
+  - [S Rahman, S Khan. Deep Multiple Instance Learning for Zero-shot Image Tagging. ECCV 2018](https://arxiv.org/abs/1803.06051)
 
 ## Diverse Image Annotation
 Describe an image using a limited numbers of tags, whereby the retrieved tags need to cover as much useful information about the image as possible. (by Diverse Image Annotation, CVPR 2017)
