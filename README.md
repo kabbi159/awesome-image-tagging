@@ -1,20 +1,27 @@
 # Awesome-Image-Tagging
-A paper list of awesome Image Tagging
+A paper list of awesome Image Tagging I read
 
 ## Conventional Image Tagging
 Describe an image using tags. Tags can be objects, situation, and user generated tags.
 
 * WARP
-  - [Y Gong, Y Jia, T Leung, A Toshev, S loffe. Deep Convolutional Ranking for Multilabel Image Annotation. arXiv:1312.4894](https://arxiv.org/abs/1312.4894)
+  - [Y Gong, Y Jia, T Leung, A Toshev, S loffe. Deep Convolutional Ranking for Multilabel Image Annotation. arXiv:1312.4894](https://arxiv.org/abs/1312.4894)  
+  - propose WARP loss for multi-label image annotation.
 
 * CNN-RNN
-  - [J Wang, Y Yang, J Mao, Z Huang, C Huang, W Xu. CNN-RNN: A Unified Framework for Multi-Label Image Classification. CVPR 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.html)
+  - [J Wang, Y Yang, J Mao, Z Huang, C Huang, W Xu. CNN-RNN: A Unified Framework for Multi-Label Image Classification. CVPR 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.html)  
+  - utilize RNN combined with CNN to learn a joint image-label embedding to characterize the semantic label dependency as well as the image-label relevance.
 
 * S-CNN-RNN
-  - [F Liu, T Xiang, TM Hospedales, W Yang, C Sun. Semantic Regularisation for Recurrent Image Annotation](https://arxiv.org/abs/1611.05490)
+  - [F Liu, T Xiang, TM Hospedales, W Yang, C Sun. Semantic Regularisation for Recurrent Image Annotation](https://arxiv.org/abs/1611.05490)  
+  - using a semantically regularised embedding layer as the interface between the CNN and RNN. simple modification to CNN-RNN?
 
 * Multi-label Triplet Embeddings
   - [Z Seymour, ZM Zhang. Multi-label Triplet Embeddings for Image Annotation from User-Generated Tags. ICMR 2018](https://dl.acm.org/citation.cfm?id=3206061)
+  
+* Multi-Modal Multi-Scale Deep Learning for Large-Scale Image Annotation
+  - [Yulei Niu, Zhiwu Lu, Ji-Rong Wen, Tao Xiang, Shih-Fu Chang. Multi-Modal Multi-Scale Deep Learning for Large-Scale Image Annotation. IEEE TIP 2019](https://arxiv.org/abs/1709.01220)
+  - using noisy tags + label quantity prediction network
 
 ## Zero-shot Image Tagging
 Annotate an image by unseen tags. It means 'unseen at the training stage'.
