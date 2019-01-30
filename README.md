@@ -1,5 +1,5 @@
 # Awesome-Image-Tagging
-A paper list of awesome Image Tagging I read
+A paper list of awesome Image Tagging I've read
 
 ## Conventional Image Tagging
 Describe an image using tags. Tags can be objects, situation, and user generated tags.
@@ -47,7 +47,5 @@ Describe an image using a limited numbers of tags, whereby the retrieved tags ne
 This repository is just made for my own studying, so there may be incorrect information.<br>
 Also, I regard 'image tagging', 'image annotation', 'multi-label image classification' as same task (actually may be little bit different) in this repository.<br>
 Thank you!<br><br>
-이 repository는 단순하게 저의 공부 정리를 위해 만들어졌습니다. 따라서 잘못된 정보도 있을 수도 있습니다.<br>
-저는 이 repository에서 image tagging, image annotation, multi-label image classification을 같은 task로 보았습니다.<br>
-감사합니다.<br><br>
-Contact: kabbi159@gmail.com
+
+Email: kabbi159@gmail.com
