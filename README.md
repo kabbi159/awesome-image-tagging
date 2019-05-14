@@ -1,7 +1,7 @@
 # Awesome-Image-Tagging
 A paper list of awesome Image Tagging I've read
 
-## Conventional Image Tagging
+## Image Tagging (Multi-label Image Classification)
 Describe an image using tags. Tags can be objects, situation, and user generated tags.
 
 * WARP
@@ -22,6 +22,10 @@ Describe an image using tags. Tags can be objects, situation, and user generated
 * Multi-Modal Multi-Scale Deep Learning for Large-Scale Image Annotation
   - [Yulei Niu, Zhiwu Lu, Ji-Rong Wen, Tao Xiang, Shih-Fu Chang. Multi-Modal Multi-Scale Deep Learning for Large-Scale Image Annotation. IEEE TIP 2019](https://arxiv.org/abs/1709.01220)
   - using noisy tags + label quantity prediction network
+  
+* Attend and Imagine
+  - [Fan Lyu, Qi Wu, Fuyuan Hu, Qingyao Wu, Mingkui Tan. Attend and Imagine: Multi-label Image Classification with Visual Attention and Recurrent Neural Networks. IEEE Transactions on Multimedia 2019.01](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8624407)
+  - Attention + RNN
 
 ## Zero-shot Image Tagging
 Annotate an image by unseen tags. It means 'unseen at the training stage'.
