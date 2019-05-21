@@ -47,9 +47,35 @@ Describe an image using a limited numbers of tags, whereby the retrieved tags ne
 * D2IA-GAN
   - [B Wu, W Chen, P Sun, W Liu, B Ghanem, S Lyu. Tagging like humans : Diverse and Distinct Image Annotation. CVPR 2018](https://arxiv.org/abs/1804.00113)
 
+## To Read (CVPR 2019 Accepted Paper List)
+I am so excited to read awesome CVPR 2019 aceepted papers about Image Tagging. Also, it is surprising that many papers on Image Tagging has accepted this year.
+
+* Weakly Supverised Deep Image Hashing through Tag Embeddings
+  - [Vijetha Gattupalli, Yaoxin Zhuo, Baoxin Li. Weakly Supervised Deep Image Hashing through Tag Embeddings. CVPR 2019](https://arxiv.org/pdf/1806.05804.pdf)
+
+* Metatdata Neighbourhood Graph Co-Attention Networks
+  - Junjie Zhang, Qi Wu, Jian Zhang, Chunhua Shen, Jianfeng Lu. Mind Your Neighbours: Image Annotation with Metadata Neighbourhood Graph Co-Attention Networks. CVPR 2019 (No arxiv Yet!)
+  - Looks like follow-up paper ['Love Thy Neighbors: Image Annotation by Exploiting Image Metatda' by Justin Johson, Lamberto Ballan, Li Fei-Fei](https://cs.stanford.edu/people/jcjohns/papers/iccv15/JohnsonICCV2015.pdf)
+
+* Graph Convolutional Networks (GCN)
+  - [Zhao-Min Chen, Xiu-Shen Wei, Peng Wang, Yanwen Guo. Multi-Label Image Recognition with Graph Convolutional Networks. CVPR 2019](https://arxiv.org/pdf/1904.03582.pdf)
+
+* Learning with Partial Labels + Graph Neural Network (GNN)
+  - [Thibaut Durand, Nazanin Mehrasa, Greg Mori. Learning a Deep ConvNet for Multi-label Classification with Partial Labels. CVPR 2019](https://arxiv.org/pdf/1902.09720.pdf)
+  
+* Visual Attention Consistency under Image Transforms
+  - Hao Guo, Kang Zheng, Xiaochuan Fan, Hongkai Yu, Song Wang. Visual Attention Consistency under Image Transforms for Multi-label Image Classification. CVPR 2019 (No arxiv Yet!)
+  
+* LaSO(Label-Set Operations networks) : few-shot learning
+  - [Amit Alfassy, Leonid Karlinsky, Ami Aides et al. LaSO: Label-Set Operations networks for multi-label few-shot learning. CVPR 2019](https://arxiv.org/pdf/1902.09811.pdf)
+
+
+
 ## Notice
 This repository is just made for my own studying, so there may be incorrect information.<br>
 Also, I regard 'image tagging', 'image annotation', 'multi-label image classification' as same task (actually may be little bit different) in this repository.<br>
+
+*I'd appreciate it if everybody could reccommend me image tagging paper that I can read.<br>*
 Thank you!<br><br>
 
 Email: kabbi159@gmail.com
