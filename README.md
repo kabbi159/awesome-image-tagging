@@ -45,7 +45,7 @@ Annotate an image by unseen tags. It means 'unseen at the training stage'.
 * HierSE
   - **Zero-shot Image Tagging by Hierarchical Semantic Embedding** [[paper]](https://dl.acm.org/citation.cfm?id=2767773)<br>
   X Li, S Liao, W Lan, X Du, G Yang<br>
-  SIGIR 2015
+  38th Annual ACM SIGIR Conference on Research & Development on Information Retrieval (SIGIR), 2015
 
 * Fast0Tag
   - **Fast Zero-shot Image Tagging**  [[paper]](https://arxiv.org/abs/1605.09759)<br>
@@ -55,7 +55,7 @@ Annotate an image by unseen tags. It means 'unseen at the training stage'.
 * Deep Multiple Instance Learning
   - **Deep Multiple Instance Learning for Zero-shot Image Tagging** [[paper]](https://arxiv.org/abs/1803.06051)<br>
   S Rahman, S Khan<br>
-  ECCV 2018
+  15th European Conference on Computer Vision (ECCV), 2018
 
 ## Diverse Image Annotation
 Describe an image using a limited numbers of tags, whereby the retrieved tags need to cover as much useful information about the image as possible. (by Diverse Image Annotation, CVPR 2017)
