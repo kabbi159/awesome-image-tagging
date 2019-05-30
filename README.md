@@ -69,7 +69,7 @@ Describe an image using a limited numbers of tags, whereby the retrieved tags ne
   B Wu, W Chen, P Sun, W Liu, B Ghanem, S Lyu<br>
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018
 
-## To Read (CVPR 2019 Accepted Paper List)
+## CVPR 2019 Accepted Paper List
 I am so excited to read awesome CVPR 2019 aceepted papers about Image Tagging. Also, it is surprising that many papers on Image Tagging has accepted this year.
 
 * Weakly Supverised Deep Image Hashing through Tag Embeddings
