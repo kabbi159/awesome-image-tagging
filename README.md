@@ -27,6 +27,11 @@ Describe an image using tags. Tags can be objects, situation, and user generated
   Z Seymour, ZM Zhang<br>
   ACM International Conference on Multimedia Retrieval (ICMR), 2018
   
+* Knowledge Distillation from Weakly-Supervised Detection
+  - **Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection** [[paper]](https://arxiv.org/abs/1809.05884)<br>
+  Yongcheng Liu, Lu Sheng, Jing Shao, Junjie Yan, Shiming Xiang, Chunhong Pan<br>
+  ACM International Conference on Multimedia (ACM MM), 2018
+  
 * Multi-Modal Multi-Scale Deep Learning for Large-Scale Image Annotation
   - **Multi-Modal Multi-Scale Deep Learning for Large-Scale Image Annotation** [[paper]](https://arxiv.org/abs/1709.01220)<br>
   Yulei Niu, Zhiwu Lu, Ji-Rong Wen, Tao Xiang, Shih-Fu Chang<br>
@@ -94,7 +99,7 @@ I am so excited to read awesome CVPR 2019 aceepted papers about Image Tagging. A
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
   
 * Visual Attention Consistency under Image Transforms
-  - **Visual Attention Consistency under Image Transforms for Multi-label Image Classification** 2019<br>
+  - **Visual Attention Consistency under Image Transforms for Multi-label Image Classification**<br>
   Hao Guo, Kang Zheng, Xiaochuan Fan, Hongkai Yu, Song Wang<br>
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
   
