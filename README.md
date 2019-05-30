@@ -89,7 +89,7 @@ I am so excited to read awesome CVPR 2019 aceepted papers about Image Tagging. A
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
 
 * Learning with Partial Labels + Graph Neural Network (GNN)
-  - **Learning a Deep ConvNet for Multi-label Classification with Partial Labels** [[paper]](https://arxiv.org/pdf/1902.09720.pdf)
+  - **Learning a Deep ConvNet for Multi-label Classification with Partial Labels** [[paper]](https://arxiv.org/pdf/1902.09720.pdf)<br>
   Thibaut Durand, Nazanin Mehrasa, Greg Mori<br>
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
   
