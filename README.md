@@ -11,7 +11,7 @@ Describe an image using tags. Tags can be objects, situation, and user generated
   - propose WARP loss for multi-label image annotation.
 
 * CNN-RNN
-  - **CNN-RNN: A Unified Framework for Multi-Label Image Classification** [[project page]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.html)<br>
+  - **CNN-RNN: A Unified Framework for Multi-Label Image Classification** [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.html)<br>
   J Wang, Y Yang, J Mao, Z Huang, C Huang, W Xu<br>
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2016   
   - utilize RNN combined with CNN to learn a joint image-label embedding to characterize the semantic label dependency as well as the image-label relevance.
