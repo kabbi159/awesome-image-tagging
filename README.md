@@ -108,8 +108,13 @@ I am so excited to read awesome CVPR 2019 aceepted papers about Image Tagging. A
   Amit Alfassy, Leonid Karlinsky, Ami Aides, Joseph Shtok, Sivan Harary, Rogerio Feris, Raja Giryes, Alex M. Bronstein<br>
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019
 
-## ICCV 2019 Accepted Paper List (to be updated)
+## ICCV 2019 Accepted Paper List
 [[accepted paper list]](http://iccv2019.thecvf.com/program/main_conference)
+
+* Learning Semantic-Specific Graph Representation
+  - **Learning Semantic-Specific Graph Representation for Multi-Label Image Recognition** [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Learning_Semantic-Specific_Graph_Representation_for_Multi-Label_Image_Recognition_ICCV_2019_paper.pdf)<br>
+  Tianshui Chen, Muxin Xu, Xiaolu Hui, Hefeng Wu, Liang Lin<br>
+  In Proceedings of IEEE International Conference on Computer Vision (ICCV), 2019
 
 ## Notice
 This repository is just made for my own studying, so there may be incorrect information.<br>
@@ -117,7 +122,6 @@ Also, I regard 'image tagging', 'image annotation', 'multi-label image classific
 
 *I'd appreciate it if everybody could reccommend me image tagging paper that I can read.<br>*
 현재는 이 쪽 분야의 paper를 read up 하고 있지는 않지만, ICCV 2019 paper까지는 올려보고자 합니다.<br>
-I'm waiting for ICCV 2019 accepted paper list.<br>
 Thank you!<br><br>
 
 Email: kabbi159@gmail.com
